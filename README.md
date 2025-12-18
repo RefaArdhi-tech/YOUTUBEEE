@@ -5,4 +5,4 @@ NIM : 1242002054
 Jurusan : Sistem Informasi
 Minat : Influencer, Teknologi
 
-saya belajar git dan github
+Saya belajar git dan github
